@@ -6,16 +6,6 @@ A full-stack AI-powered customer support application built with modern MERN stac
 
 **[Try the live application](https://virallens-agent.netlify.app/)**
 
-## Screenshots
-
-### Registration & Authentication
-![Register](https://via.placeholder.com/800x400?text=Registration+Page)
-![Login](https://via.placeholder.com/800x400?text=Login+Page)
-
-### Dashboard & Chat Interface
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard)
-![Chat](https://via.placeholder.com/800x400?text=Chat+Interface)
-![Chat History](https://via.placeholder.com/800x400?text=Chat+History)
 
 ## Tech Stack
 
