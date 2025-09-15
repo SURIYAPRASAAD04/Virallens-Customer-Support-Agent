@@ -2,11 +2,11 @@
 
 A full-stack AI-powered customer support application built with modern MERN stack technologies. This project provides an intelligent chat interface with secure authentication, conversation management, and real-time AI responses.
 
-## 🚀 Live Demo
+## Live Demo
 
 **[Try the live application](https://virallens-agent.netlify.app/)**
 
-## 📸 Screenshots
+## Screenshots
 
 ### Registration & Authentication
 ![Register](https://via.placeholder.com/800x400?text=Registration+Page)
@@ -17,7 +17,7 @@ A full-stack AI-powered customer support application built with modern MERN stac
 ![Chat](https://via.placeholder.com/800x400?text=Chat+Interface)
 ![Chat History](https://via.placeholder.com/800x400?text=Chat+History)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React** with Vite for fast development
@@ -36,7 +36,7 @@ A full-stack AI-powered customer support application built with modern MERN stac
 - **Docker** containerization
 - **GitHub Actions** for CI/CD (optional)
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 server/
@@ -63,15 +63,15 @@ server/
 └── docker-compose.yml
 ```
 
-## ✨ Features
+## Features
 
-- **🔐 Secure Authentication**: JWT-based auth with bcrypt password hashing
-- **💬 Real-time AI Chat**: Powered by OpenRouter API for intelligent responses
-- **📝 Conversation Management**: Save, view, and organize chat history
-- **👤 User Profiles**: Customizable user preferences and settings
-- **📱 Responsive Design**: Mobile-friendly interface with TailwindCSS
-- **🐳 Docker Support**: Containerized for easy deployment
-- **☁️ Cloud Deployment**: Production-ready deployment on Netlify and Render
+- ** Secure Authentication**: JWT-based auth with bcrypt password hashing
+- ** Real-time AI Chat**: Powered by OpenRouter API for intelligent responses
+- ** Conversation Management**: Save, view, and organize chat history
+- ** User Profiles**: Customizable user preferences and settings
+- ** Responsive Design**: Mobile-friendly interface with TailwindCSS
+- ** Docker Support**: Containerized for easy deployment
+- ** Cloud Deployment**: Production-ready deployment on Netlify and Render
 
 ## 🚀 Quick Start
 
@@ -124,7 +124,7 @@ docker build -t ai-support-backend .
 docker run -p 5000:5000 ai-support-backend
 ```
 
-## 📚 API Documentation
+## API Documentation
 
 ### Authentication Endpoints
 
@@ -158,7 +158,7 @@ docker run -p 5000:5000 ai-support-backend
 |--------|----------|-------------|
 | GET | `/api/health` | Server and database status |
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Users Collection
 ```javascript
@@ -204,7 +204,7 @@ docker run -p 5000:5000 ai-support-backend
 }
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Frontend Configuration
 - API base URL configuration in `utils/api.js`
@@ -217,7 +217,7 @@ docker run -p 5000:5000 ai-support-backend
 - MongoDB connection with error handling
 - OpenRouter API integration with error handling
 
-## 🌐 Deployment
+## Deployment
 
 ### Frontend (Netlify)
 1. Connect GitHub repository to Netlify
@@ -232,7 +232,7 @@ docker run -p 5000:5000 ai-support-backend
 4. Set start command: `npm start`
 5. Add environment variables
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -241,25 +241,21 @@ docker run -p 5000:5000 ai-support-backend
 5. Open a Pull Request
 
 
-## 👨‍💻 Author
+## Author
 
 **Suriya Prasaad S**
 - GitHub: [@SURIYAPRASAAD04](https://github.com/SURIYAPRASAAD04)
 - Email: suriyaprasaadjayasugumar04@gmail.com 
 
-## 📞 Support
+## Support
 
 If you have any questions or need support, please:
 1. Check the [Issues](https://github.com/SURIYAPRASAAD04/Virallens-Customer-Support-Agent/issues) page
 2. Create a new issue if your problem isn't already listed
 3. Contact me directly via email
 
-## ⚠️ Disclaimer
 
-This project has been developed as a learning and demonstration project. While every effort has been made to ensure functionality, security, and accuracy, it may not cover all edge cases or production-grade requirements. Feedback and improvements are welcome for future iterations.
 
----
-
-⭐ **Star this repository if you found it helpful!**
+**Star this repository if you found it helpful!**
 
 *Last updated: September 16, 2025*
